@@ -1,0 +1,22 @@
+h1{
+  position: absolute;
+  color: #40514e;
+  font-family: 'Caviar Dreams';
+  font-size: 50px;
+  text-align: center;
+	
+
+
+}
+
+h2  {
+  position: absolute;
+  color: #1cb3c8;
+  font-family: 'Century Gothic';
+  font-size: 26px;
+  top: 90px;
+}
+
+body  {
+  background-color: #dfe2e2;
+}
