@@ -1,20 +1,24 @@
 h1{
-  position: absolute;
+  position: relative;
   color: #40514e;
   font-family: 'Caviar Dreams';
   font-size: 50px;
   text-align: center;
-	
-
-
+  width: auto;
+  border-style: dashed;
+  borde color: steelblue;
 }
 
 h2  {
-  position: absolute;
+  border-style: dashed;
+  borde color: steelblue;
+  position: relative;
   color: #1cb3c8;
   font-family: 'Century Gothic';
   font-size: 26px;
-  top: 90px;
+  top: 10px;
+  width: auto;
+  text-align: center;
 }
 
 body  {
