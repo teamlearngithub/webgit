@@ -4,13 +4,13 @@ h1{
   font-family: 'Caviar Dreams';
   font-size: 50px;
   text-align: center;
-
-
+  left: 200px;
+  top: 0px;;
 
 }
 
 h2  {
-  position: absolute;
+
   color: #1cb3c8;
   font-family: 'Century Gothic';
   font-size: 26px;
